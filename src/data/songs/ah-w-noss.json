@@ -1,0 +1,324 @@
+{
+  "id": 7,
+  "slug": "ah-w-noss",
+  "title": "Ah W Noss",
+  "artist": "Nancy Ajram",
+  "key": "A",
+  "capo": 0,
+  "difficulty": "Beginner",
+  "meter": "4/4",
+  "tempo": 124,
+  "style": "Arabic pop dance",
+  "maqam": "Pop major",
+  "liked": true,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "Ah w noss, "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "you know I "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "love you "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "I can't hide "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "it anymore "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "F#m",
+                      "text": "My heart beats "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "only for you "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Stay with "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "me forever "
+                    },
+                    {
+                      "chord": "A",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Ah w noss, you "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "know I love you "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "آه ونص، "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "بتعرف إني "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "بحبك "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "ما فيي خبي "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "أكتر من هيك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "F#m",
+                      "text": "قلبي بدق "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "بس كرمالك "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "خليك معي "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "لآخر العمر "
+                    },
+                    {
+                      "chord": "A",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "آه ونص، بتعرف "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "إني بحبك "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "Ah w noss, "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "tu sais que "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "je t'aime "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "Je ne peux "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "plus le cacher "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "F#m",
+                      "text": "Mon cœur bat "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "seulement pour toi "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Reste avec "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "moi pour "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "toujours "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Ah w noss, tu "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "sais que je t'aime "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "A",
+            "E",
+            "F#m",
+            "D"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "A",
+            "E",
+            "F#m",
+            "D",
+            "A",
+            "E",
+            "D",
+            "E"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "D",
+            "E",
+            "A",
+            ["F#m", "D", "E", "A"],
+            "D",
+            "E",
+            "A",
+            "A"
+          ]
+        }
+      ]
+    }
+  }
+}

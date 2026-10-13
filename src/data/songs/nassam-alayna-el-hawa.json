@@ -1,0 +1,364 @@
+{
+  "id": 2,
+  "slug": "nassam-alayna-el-hawa",
+  "title": "Nassam Alayna El Hawa",
+  "artist": "Fairouz",
+  "key": "A",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 86,
+  "style": "Lebanese folk",
+  "maqam": "Nahawand color",
+  "liked": true,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "The breeze "
+                    },
+                    {
+                      "chord": "E/G#",
+                      "text": "blew on "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "us from "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "the valley "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "Oh breeze of "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "my country, take "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "me home "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "I long "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "for my "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "loved ones "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "My heart "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "belongs to "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "my homeland "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "The breeze blew on "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "us from the valley "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "نسم علينا "
+                    },
+                    {
+                      "chord": "E/G#",
+                      "text": "الهوى من "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "مفرق الوادي "
+                    },
+                    {
+                      "chord": "D",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "يا هوا "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "بلادي خدني "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "لبلادي "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "مشتاق "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "لأحبابي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "قرار",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "قلبي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "لبلادي "
+                    },
+                    {
+                      "chord": "E",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "نسم علينا الهوى "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "من مفرق الوادي "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "La brise a "
+                    },
+                    {
+                      "chord": "E/G#",
+                      "text": "soufflé sur nous "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "depuis la vallée "
+                    },
+                    {
+                      "chord": "D",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A",
+                      "text": "Oh brise de "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "mon pays, ramène-moi "
+                    },
+                    {
+                      "chord": "F#m",
+                      "text": "chez moi "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Mes proches "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "me manquent "
+                    },
+                    {
+                      "chord": "A",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Mon cœur "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "appartient à "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "ma patrie "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "La brise a soufflé sur "
+                    },
+                    {
+                      "chord": "E",
+                      "text": "nous depuis la vallée "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "A",
+            "E/G#",
+            "F#m",
+            "D",
+            "A",
+            "E",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "A",
+            "E",
+            "F#m",
+            "D",
+            "A",
+            "E",
+            "D",
+            "A"
+          ]
+        },
+        {
+          "name": "Refrain",
+          "repeat": 2,
+          "bars": [
+            "D",
+            "A",
+            "E",
+            "A",
+            "D",
+            "A",
+            "E",
+            "A"
+          ]
+        }
+      ]
+    }
+  }
+}

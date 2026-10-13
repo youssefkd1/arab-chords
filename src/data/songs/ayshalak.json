@@ -1,0 +1,312 @@
+{
+  "id": 9,
+  "slug": "ayshalak",
+  "title": "Ayshalak",
+  "artist": "Elissa",
+  "key": "Bm",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 90,
+  "style": "Arabic pop ballad",
+  "maqam": "Minor ballad",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "I live for you, "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "the best years of "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "my life "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "You are the medicine "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "for my eyes "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "I will always be "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "by your side "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "My love for you "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "grows every day "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "I live for you, the "
+                    },
+                    {
+                      "chord": "F#7",
+                      "text": "best years of my life "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "عايشالك أحلى "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "سنين في "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "العمر "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "يا دوا "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "عيني "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "رح ضل حدك "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "على طول "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "حبي إلك بيكبر "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "كل يوم "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "عايشالك أحلى سنين "
+                    },
+                    {
+                      "chord": "F#7",
+                      "text": "في العمر "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "Je vis pour "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "toi les plus "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "belles années "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "Tu es le remède "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "de mes yeux "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Je serai toujours "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "à tes côtés "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Mon amour pour toi "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "grandit chaque jour "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Je vis pour toi "
+                    },
+                    {
+                      "chord": "F#7",
+                      "text": "les plus belles années "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "Bm",
+            "G",
+            "D",
+            "A"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "Bm",
+            "G",
+            "D",
+            "A",
+            "Bm",
+            "G",
+            "Em",
+            "F#7"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "G",
+            "A",
+            "D",
+            "Bm",
+            "G",
+            "F#7",
+            "Bm",
+            "Bm"
+          ]
+        }
+      ]
+    }
+  }
+}

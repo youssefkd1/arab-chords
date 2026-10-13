@@ -1,0 +1,30 @@
+{
+  "id": 22,
+  "slug": "progression4",
+  "title": "Progression 4",
+  "artist": "exercise",
+  "key": "G",
+  "capo": 0,
+  "difficulty": "Beginner",
+  "meter": "4/4",
+  "tempo": 120,
+  "style": "exercise",
+  "maqam": "Major",
+  "liked": false,
+  "charts": {
+    "ireal": {
+      "sections": [
+        {
+          "name": "Main",
+          "repeat": 5,
+          "bars": [
+            "G",
+            "Em",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    }
+  }
+}

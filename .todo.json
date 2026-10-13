@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Inspect existing project files",
+    "active_form": "Inspecting existing project files",
+    "status": "in_progress"
+  },
+  {
+    "content": "Draft architecture and schema docs",
+    "active_form": "Drafting architecture and schema docs",
+    "status": "pending"
+  },
+  {
+    "content": "Create source folders and empty models",
+    "active_form": "Creating source folders and empty models",
+    "status": "pending"
+  },
+  {
+    "content": "Design JSON format and sample song",
+    "active_form": "Designing JSON format and sample song",
+    "status": "pending"
+  },
+  {
+    "content": "Add validator and test notes",
+    "active_form": "Adding validator and test notes",
+    "status": "pending"
+  },
+  {
+    "content": "Write contribution documentation",
+    "active_form": "Writing contribution documentation",
+    "status": "pending"
+  }
+]

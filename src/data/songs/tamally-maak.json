@@ -1,0 +1,340 @@
+{
+  "id": 8,
+  "slug": "tamally-maak",
+  "title": "Tamally Maak",
+  "artist": "Amr Diab",
+  "key": "G",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 96,
+  "style": "Mediterranean pop ballad",
+  "maqam": "Minor pop",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "I am always with "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "you, even if you "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "are far from me "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "My heart "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "is always "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "with you "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "You are my life "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "and my love "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "I can't "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "imagine life "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "without you "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "I am always with you, even "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "if you are far from me "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "تملي معاك، "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "ولو حتى "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "بعيد عني "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "قلبي "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "دايماً "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "معاك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "إنت حياتي "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "وحبي "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "ما بتخيل "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "حياتي من "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "دونك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "تملي معاك، ولو "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "حتى بعيد عني "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Je suis toujours avec "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "toi, même si tu "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "es loin de moi "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Mon cœur "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "est toujours "
+                    },
+                    {
+                      "chord": "Em",
+                      "text": "avec toi "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "Tu es ma vie "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "et mon amour "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "Je ne peux "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "pas imaginer la "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "vie sans toi "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "C",
+                      "text": "Je suis toujours avec toi, même "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "si tu es loin de moi "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "G",
+            "D",
+            "Em",
+            "C",
+            "G",
+            "D",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "G",
+            "D",
+            "Em",
+            "C",
+            "G",
+            "D",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "C",
+            "D",
+            "G",
+            "Em",
+            "C",
+            "D",
+            "G",
+            "G"
+          ]
+        }
+      ]
+    }
+  }
+}

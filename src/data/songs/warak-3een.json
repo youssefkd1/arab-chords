@@ -1,0 +1,71 @@
+{
+  "id": 14,
+  "slug": "warak-3een",
+  "title": "Warak 3een",
+  "artist": "Yara Mounir",
+  "key": "G",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 92,
+  "style": "Modern Arabic indie pop",
+  "maqam": "Bayati",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Verse",
+              "lines": [
+                { "segments": [
+                  { "chord": "G", "text": "Leaves of light " },
+                  { "chord": "D", "text": "fall around us" }
+                ] }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                { "segments": [
+                  { "chord": "Em", "text": "Warak 3een " },
+                  { "chord": "C", "text": "carry the night" }
+                ] }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقطع",
+              "lines": [
+                { "segments": [
+                  { "chord": "G", "text": "أوراق من ضوء " },
+                  { "chord": "D", "text": "تسقط حولنا" }
+                ] }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                { "segments": [
+                  { "chord": "Em", "text": "ورق عين " },
+                  { "chord": "C", "text": "يحمينا بالليل" }
+                ] }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        { "name": "A", "repeat": 2, "bars": ["G", "D", "Em", "C"] },
+        { "name": "B", "repeat": 1, "bars": ["Am", "D", "G", "C"] }
+      ]
+    }
+  }
+}

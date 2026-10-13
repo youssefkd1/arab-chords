@@ -1,0 +1,352 @@
+{
+  "id": 3,
+  "slug": "gana-el-hawa",
+  "title": "Gana El Hawa",
+  "artist": "Abdel Halim Hafez",
+  "key": "Am",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 118,
+  "style": "Egyptian classic pop",
+  "maqam": "Kurd/Nahawand blend",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "The wind of "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "love came to "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "us "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "And threw "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "us into "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "passion "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "We forgot "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "ourselves in "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "love "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "Oh, how "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "beautiful is "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "love "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Dm",
+                      "text": "The wind of love "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "came to us "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "جانا "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "الهوى "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "جانا "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "ورمانا "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "الهوى "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "رمانا "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "نسينا "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "حالنا "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "بالحب "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "يا "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "محلا "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "الحب "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Dm",
+                      "text": "جانا الهوى "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "جانا "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Le vent de "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "l'amour est venu "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "à nous "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Et nous a "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "jetés dans la "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "passion "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Nous nous "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "sommes oubliés "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "dans l'amour "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "Oh, que "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "l'amour est "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "beau "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Dm",
+                      "text": "Le vent de l'amour "
+                    },
+                    {
+                      "chord": "E7",
+                      "text": "est venu à nous "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "Am",
+            "Dm",
+            "E7",
+            "Am",
+            "F",
+            "Dm",
+            "E7",
+            "E7"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "Am",
+            "Am",
+            "Dm",
+            "E7",
+            "Am",
+            "G",
+            "F",
+            "E7"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "F",
+            "G",
+            "C",
+            "Am",
+            "Dm",
+            "E7",
+            "Am",
+            "Am"
+          ]
+        }
+      ]
+    }
+  }
+}

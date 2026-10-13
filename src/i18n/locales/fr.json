@@ -1,0 +1,190 @@
+{
+  "common": {
+    "key": "Tonalité",
+    "capo": "Capo",
+    "all": "Tout",
+    "beginner": "Débutant",
+    "intermediate": "Intermédiaire",
+    "advanced": "Avancé",
+    "search": "Rechercher",
+    "filters": "Filtres",
+    "noResults": "Aucun résultat",
+    "seeAll": "Tout voir ->",
+    "backingTrack": "Grille",
+    "chordChart": "Grille d'accords"
+  },
+  "sidebar": {
+    "tagline": "Paroles et grilles d'accords"
+  },
+  "nav": {
+    "home": "Accueil",
+    "songs": "Chansons",
+    "charts": "Partitions",
+    "artists": "Artistes",
+    "playlists": "Playlists",
+    "favorites": "Favoris",
+    "recents": "Récents",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "tagline": "Arab Chords - grilles de chansons arabes",
+    "heroTitle": "Lire et jouer les chansons arabes",
+    "heroDesc": "Grilles d'accords avec paroles et vues compactes type iReal pour les chansons arabes - de Fairouz à Amr Diab.",
+    "browseSongs": "Parcourir les grilles",
+    "quickAccess": "Accès rapide",
+    "featured": "Grilles en vedette",
+    "stats": {
+      "songs": "Grilles",
+      "artists": "Artistes",
+      "playlists": "Playlists"
+    },
+    "links": {
+      "songs": {
+        "label": "Chansons",
+        "desc": "Paroles et grilles type iReal"
+      },
+      "artists": {
+        "label": "Artistes",
+        "desc": "Explorer par artiste"
+      },
+      "playlists": {
+        "label": "Playlists",
+        "desc": "Vos playlists"
+      },
+      "favorites": {
+        "label": "Favoris",
+        "desc": "Grilles sauvegardées"
+      }
+    }
+  },
+  "songs": {
+    "title": "Chansons",
+    "subtitle": "Paroles et grilles d'accords pour chansons arabes",
+    "searchPlaceholder": "Rechercher chansons ou artistes...",
+    "difficulty": "Difficulté",
+    "artist": "Artiste",
+    "found_one": "{{count}} grille trouvée",
+    "found_other": "{{count}} grilles trouvées",
+    "noSongsTitle": "Aucune chanson trouvée",
+    "noSongsDesc": "Essayez d'ajuster votre recherche ou vos filtres",
+    "unlikeSong": "Retirer le j'aime",
+    "likeSong": "J'aime",
+    "playTrack": "Ouvrir la grille",
+    "openChart": "Ouvrir la grille",
+    "addToPlaylist": "Ajouter à une playlist"
+  },
+  "chart": {
+    "songChart": "Grille de chanson",
+    "backToSongs": "Retour aux chansons",
+    "notFound": "Grille introuvable.",
+    "lyricsMode": "Mode paroles",
+    "irealMode": "Mode iReal",
+    "meter": "Mesure",
+    "tempo": "Tempo"
+  },
+  "artists": {
+    "title": "Artistes",
+    "subtitle": "Grilles de chansons de vos artistes arabes préférés",
+    "searchPlaceholder": "Rechercher des artistes...",
+    "count_one": "{{count}} artiste",
+    "count_other": "{{count}} artistes",
+    "noArtistsTitle": "Aucun artiste trouvé",
+    "songs": "chansons",
+    "countries": {
+      "all": "Tout",
+      "lebanon": "Liban",
+      "egypt": "Égypte",
+      "iraq": "Irak"
+    }
+  },
+  "playlists": {
+    "title": "Playlists",
+    "subtitle": "Organisez vos grilles de chansons préférées en playlists",
+    "new": "Nouveau",
+    "namePlaceholder": "Nom de la playlist...",
+    "create": "Créer",
+    "cancel": "Annuler",
+    "count_one": "{{count}} playlist",
+    "count_other": "{{count}} playlists",
+    "delete": "Supprimer",
+    "noPlaylists": "Aucune playlist",
+    "noPlaylistsDesc": "Créez votre première playlist ci-dessus",
+    "moreSongs": "+{{count}} de plus...",
+    "emptySongs": "Aucune chanson. Ajoutez-en depuis la page Chansons ou le bouton ci-dessous.",
+    "changeCover": "Changer la couverture",
+    "removeCover": "Supprimer la couverture",
+    "rename": "Renommer",
+    "save": "Enregistrer",
+    "addSongs": "Ajouter des chansons",
+    "addToPlaylist": "Ajouter à une playlist",
+    "removeSong": "Retirer de la playlist",
+    "songsCount_one": "{{count}} chanson",
+    "songsCount_other": "{{count}} chansons",
+    "allSongsAdded": "Toutes les chansons disponibles sont déjà dans cette playlist"
+  },
+  "favorites": {
+    "title": "Favoris",
+    "subtitle": "Vos grilles sauvegardées, toujours à portée de main",
+    "count_one": "{{count}} grille sauvegardée",
+    "count_other": "{{count}} grilles sauvegardées",
+    "emptyTitle": "Aucun favori",
+    "emptyDesc": "Aimez des chansons depuis la page Chansons pour les retrouver ici",
+    "tip": "Conseil : Aimez des chansons depuis la page Chansons pour les ajouter ici.",
+    "removeLabel": "Retirer des favoris"
+  },
+  "recents": {
+    "title": "Récents",
+    "subtitle": "Reprenez les grilles que vous avez ouvertes",
+    "clearAll": "Tout effacer",
+    "emptyTitle": "Aucune activité récente",
+    "emptyDesc": "Les grilles que vous ouvrez apparaîtront ici",
+    "today": "Aujourd'hui",
+    "yesterday": "Hier",
+    "earlier": "Plus tôt",
+    "tip": "Vos {{count}} dernières grilles ouvertes sont affichées ici.",
+    "removeLabel": "Retirer des récents"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Personnalisez votre expérience de grilles",
+    "appearance": {
+      "title": "Apparence",
+      "fontSize": "Taille de police",
+      "fontSizeDesc": "Ajuster la taille du texte des grilles d'accords",
+      "compactView": "Vue compacte",
+      "compactViewDesc": "Afficher plus de chansons avec moins d'espacement",
+      "fontSizes": {
+        "small": "Petit",
+        "medium": "Moyen",
+        "large": "Grand"
+      }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "push": "Notifications push",
+      "pushDesc": "Être notifié des mises à jour de l'application",
+      "newSongs": "Alerte nouvelles grilles",
+      "newSongsDesc": "Soyez le premier à connaître les nouvelles grilles de chansons",
+      "sound": "Effets sonores",
+      "soundDesc": "Jouer des sons lors des actions"
+    },
+    "chords": {
+      "title": "Préférences d'accords",
+      "autoCapo": "Détection auto du capo",
+      "autoCapoDesc": "Suggérer le capo selon votre accordage",
+      "showDifficulty": "Afficher la difficulté",
+      "showDifficultyDesc": "Afficher le badge de difficulté sur les chansons"
+    },
+    "language": {
+      "title": "Langue et région",
+      "label": "Langue",
+      "desc": "Sélectionnez votre langue d'interface préférée"
+    },
+    "about": {
+      "title": "À propos",
+      "version": "Version",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation"
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "id": 1,
+  "slug": "albi-byehawwak",
+  "title": "Albi Byehawwak",
+  "artist": "Fares Karam",
+  "key": "D",
+  "capo": 0,
+  "difficulty": "Beginner",
+  "meter": "4/4",
+  "tempo": 112,
+  "style": "Lebanese dabke pop",
+  "maqam": "Ajam feel",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "My heart loves "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "you, oh precious "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "one "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "I can't live "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "without you "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "You are my "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "soul and my "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "life "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Come to "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "me, my "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "love "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "My heart loves "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "you, oh precious "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "one "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "قلبي بيهواك "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "يا غالي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "عليا "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "ما بقدر عيش "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "من دونك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "إنت "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "روحي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "وحياتي "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "تعا لعندي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "يا حبيبي "
+                    },
+                    {
+                      "chord": "D",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "قلبي بيهواك "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "يا غالي "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "عليا "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Mon cœur "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "t'aime, oh "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "être cher "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Je ne peux pas "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "vivre sans toi "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "Tu es mon "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "âme et ma "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "vie "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "G",
+                      "text": "Viens à "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "moi, mon "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "amour "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Bm",
+                      "text": "Mon cœur "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "t'aime, oh "
+                    },
+                    {
+                      "chord": "A",
+                      "text": "être cher "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "D",
+            "G",
+            "A",
+            "D"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "D",
+            "D",
+            "G",
+            "A",
+            "Bm",
+            "G",
+            "A",
+            "D"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "G",
+            "A",
+            "D",
+            "Bm",
+            "G",
+            "A",
+            "D",
+            "D"
+          ]
+        }
+      ]
+    }
+  }
+}

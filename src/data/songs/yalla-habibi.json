@@ -1,0 +1,71 @@
+{
+  "id": 15,
+  "slug": "yalla-habibi",
+  "title": "Yalla Habibi",
+  "artist": "Hadi El Khatib",
+  "key": "C",
+  "capo": 0,
+  "difficulty": "Beginner",
+  "meter": "4/4",
+  "tempo": 104,
+  "style": "Modern Arabic pop",
+  "maqam": "Hijaz",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                { "segments": [
+                  { "chord": "C", "text": "Come with me " },
+                  { "chord": "G", "text": "to the city lights" }
+                ] }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                { "segments": [
+                  { "chord": "Am", "text": "Yalla habibi " },
+                  { "chord": "F", "text": "step with me" }
+                ] }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                { "segments": [
+                  { "chord": "C", "text": "تعال معي " },
+                  { "chord": "G", "text": "إلى أضواء المدينة" }
+                ] }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                { "segments": [
+                  { "chord": "Am", "text": "يا له، يا حبيبي " },
+                  { "chord": "F", "text": "خطوتنا واحدة" }
+                ] }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        { "name": "A", "repeat": 2, "bars": ["C", "G", "Am", "F"] },
+        { "name": "B", "repeat": 1, "bars": ["Dm", "G", "C", "F"] }
+      ]
+    }
+  }
+}

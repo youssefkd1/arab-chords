@@ -1,0 +1,190 @@
+{
+  "id": 18,
+  "slug": "girl-from-ipanema",
+  "title": "The Girl from Ipanema",
+  "artist": "Antonio-Carlos Jobim",
+  "key": "F",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 132,
+  "style": "Jazz bossa nova",
+  "maqam": "Major jazz",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Verse (A)",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "Fmaj7", "text": "Tall and tan and " },
+                    { "chord": "Fmaj7", "text": "young and lovely, the " }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "G7#11", "text": "girl from Ipa-" },
+                    { "chord": "G7#11", "text": "nema goes walking, and" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Gm7", "text": "when she passes, each " },
+                    { "chord": "Gb7#11", "text": "one she passes goes " }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Fmaj7", "text": "\"ah!\"" },
+                    { "chord": "Gb7", "text": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bridge (B)",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "F#maj7", "text": "Oh, but I watch her " },
+                    { "chord": "F#maj7", "text": "so sadly," }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "B7", "text": "how can I tell her " },
+                    { "chord": "B7", "text": "I love her?" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "F#m7", "text": "Yes, I would give my " },
+                    { "chord": "F#m7", "text": "heart gladly," }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D7", "text": "but each day when she " },
+                    { "chord": "D7", "text": "walks to the sea," }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Gm7", "text": "she looks straight a-" },
+                    { "chord": "Gm7", "text": "head not at me." }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Eb7", "text": "" },
+                    { "chord": "Eb7", "text": "" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Am7", "text": "" },
+                    { "chord": "D7b9b5", "text": "" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Gm7", "text": "" },
+                    { "chord": "C7b9b5", "text": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse Out (A)",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "Fmaj7", "text": "Tall and tan and " },
+                    { "chord": "Fmaj7", "text": "young and lovely, the " }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "G7#11", "text": "girl from Ipa-" },
+                    { "chord": "G7#11", "text": "nema goes walking, and" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Gm7", "text": "when she passes, each " },
+                    { "chord": "Gb7#11", "text": "one she passes goes " }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Fmaj7", "text": "\"ah!\"" },
+                    { "chord": "Fmaj7", "text": "" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "A",
+          "repeat": 2,
+          "bars": [
+            "Fmaj7",
+            "Fmaj7",
+            "G7#11",
+            "G7#11",
+            "Gm7",
+            "Gb7#11",
+            "Fmaj7",
+            "Gb7"
+          ]
+        },
+        {
+          "name": "B",
+          "repeat": 1,
+          "bars": [
+            "F#maj7",
+            "F#maj7",
+            "B7",
+            "B7",
+            "F#m7",
+            "F#m7",
+            "D7",
+            "D7",
+            "Gm7",
+            "Gm7",
+            "Eb7",
+            "Eb7",
+            "Am7",
+            "D7b9b5",
+            "Gm7",
+            "C7b9b5"
+          ]
+        },
+        {
+          "name": "A",
+          "repeat": 1,
+          "bars": [
+            "Fmaj7",
+            "Fmaj7",
+            "G7#11",
+            "G7#11",
+            "Gm7",
+            "Gb7#11",
+            "Fmaj7",
+            "Fmaj7"
+          ]
+        }
+      ]
+    }
+  }
+}

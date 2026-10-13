@@ -1,0 +1,328 @@
+{
+  "id": 6,
+  "slug": "rita",
+  "title": "Rita",
+  "artist": "Marcel Khalife",
+  "key": "Fm",
+  "capo": 0,
+  "difficulty": "Advanced",
+  "meter": "4/4",
+  "tempo": 78,
+  "style": "Poetic oud/guitar song",
+  "maqam": "D minor",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "Between Rita and "
+                    },
+                    {
+                      "chord": "A#m",
+                      "text": "my eyes is "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "a rifle "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "And whoever knows Rita, "
+                    },
+                    {
+                      "chord": "C#",
+                      "text": "kneels and prays "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "To the divinity in "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "those honey eyes "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C#",
+                      "text": "Rita is "
+                    },
+                    {
+                      "chord": "D#",
+                      "text": "my deep "
+                    },
+                    {
+                      "chord": "G#",
+                      "text": "wound "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "Between Rita and my "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "eyes is a rifle "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "بين ريتا "
+                    },
+                    {
+                      "chord": "A#m",
+                      "text": "وعيوني بندقية "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "والذي يعرف "
+                    },
+                    {
+                      "chord": "C#",
+                      "text": "ريتا ينحني "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "ويصلي لإله في "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "العيون العسلية "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "قرار",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C#",
+                      "text": "ريتا "
+                    },
+                    {
+                      "chord": "D#",
+                      "text": "جرحي "
+                    },
+                    {
+                      "chord": "G#",
+                      "text": "العميق "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "بين ريتا "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "وعيوني بندقية "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "Entre Rita et mes "
+                    },
+                    {
+                      "chord": "A#m",
+                      "text": "yeux il y a "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "un fusil "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Fm",
+                      "text": "Et quiconque connaît "
+                    },
+                    {
+                      "chord": "C#",
+                      "text": "Rita, s'agenouille "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "Et prie la divinité dans "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "ces yeux de miel "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "C#",
+                      "text": "Rita est "
+                    },
+                    {
+                      "chord": "D#",
+                      "text": "ma blessure "
+                    },
+                    {
+                      "chord": "G#",
+                      "text": "profonde "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#m",
+                      "text": "Entre Rita et mes yeux "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "il y a un fusil "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "Fm",
+            "A#m",
+            "C7",
+            "Fm",
+            "C#",
+            "A#m",
+            "C7",
+            "C7"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "Fm",
+            "Fm/D#",
+            "C#",
+            "C7",
+            "A#m",
+            "C7",
+            "Fm",
+            "Fm"
+          ]
+        },
+        {
+          "name": "Refrain",
+          "repeat": 2,
+          "bars": [
+            "C#",
+            "D#",
+            "G#",
+            "Fm",
+            "A#m",
+            "C7",
+            "Fm",
+            "C7"
+          ]
+        }
+      ]
+    }
+  }
+}

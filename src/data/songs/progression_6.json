@@ -1,0 +1,30 @@
+{
+  "id": 24,
+  "slug": "progression6",
+  "title": "Progression 6",
+  "artist": "exercise",
+  "key": "Cm",
+  "capo": 0,
+  "difficulty": "Beginner",
+  "meter": "4/4",
+  "tempo": 120,
+  "style": "exercise",
+  "maqam": "Minor",
+  "liked": false,
+  "charts": {
+    "ireal": {
+      "sections": [
+        {
+          "name": "Main",
+          "repeat": 5,
+          "bars": [
+            "Cm",
+            "Bb",
+            "G",
+            "Cm"
+          ]
+        }
+      ]
+    }
+  }
+}

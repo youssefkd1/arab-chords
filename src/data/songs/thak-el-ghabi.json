@@ -1,0 +1,317 @@
+{
+  "id": 16,
+  "slug": "thak-el-ghabi",
+  "title": "ذاك الغبي",
+  "artist": "Asala",
+  "key": "D",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 92,
+  "style": "Arabic pop ballad",
+  "maqam": "Nawa Athar",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "ar",
+      "locales": {
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "ذاك الغبي " },
+                    { "chord": "A", "text": "كان يظن" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "إن الحب " },
+                    { "chord": "G", "text": "لعبة" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "وكل ما مرّ " },
+                    { "chord": "A", "text": "بقلبي" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "ترك أثراً " },
+                    { "chord": "G", "text": "عميقاً" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "ما عرف يقدّر " },
+                    { "chord": "A", "text": "الحنين" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "وضاع بين " },
+                    { "chord": "G", "text": "الطريق" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "يا ذاك الغبي " },
+                    { "chord": "A", "text": "ما زلت أذكر" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "كيف كنت تسأل " },
+                    { "chord": "G", "text": "عني" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "واليوم تبكي " },
+                    { "chord": "A", "text": "وحدك" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "وأنا بعيد " },
+                    { "chord": "G", "text": "عني" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "جسر",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "G", "text": "لو رجع الزمن " },
+                    { "chord": "A", "text": "لوراء" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "هل تفهم " },
+                    { "chord": "G", "text": "معنى الحب؟" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "That fool, " },
+                    { "chord": "A", "text": "he thought" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "that love " },
+                    { "chord": "G", "text": "was just a game" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Every time he passed " },
+                    { "chord": "A", "text": "through my heart" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "he left a mark " },
+                    { "chord": "G", "text": "so deep" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "He never knew how to " },
+                    { "chord": "A", "text": "cherish longing" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "and got lost " },
+                    { "chord": "G", "text": "along the way" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Oh that fool, " },
+                    { "chord": "A", "text": "I still remember" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "how you used to " },
+                    { "chord": "G", "text": "ask about me" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "and now you cry " },
+                    { "chord": "A", "text": "alone" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "while I am far " },
+                    { "chord": "G", "text": "from you" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bridge",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "G", "text": "If time could turn " },
+                    { "chord": "A", "text": "back" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "would you understand " },
+                    { "chord": "G", "text": "what love means?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Ce benêt, " },
+                    { "chord": "A", "text": "il pensait" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "que l'amour " },
+                    { "chord": "G", "text": "n'était qu'un jeu" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Chaque fois qu'il passait " },
+                    { "chord": "A", "text": "dans mon cœur" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "il laissait une trace " },
+                    { "chord": "G", "text": "profonde" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Il ne savait pas " },
+                    { "chord": "A", "text": "chérir la nostalgie" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "et s'est perdu " },
+                    { "chord": "G", "text": "en chemin" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "D", "text": "Oh ce benêt, " },
+                    { "chord": "A", "text": "je me souviens encore" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "comment tu me " },
+                    { "chord": "G", "text": "demandais des nouvelles" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "D", "text": "et aujourd'hui tu pleures " },
+                    { "chord": "A", "text": "seul" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "pendant que je suis loin " },
+                    { "chord": "G", "text": "de toi" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pont",
+              "lines": [
+                {
+                  "segments": [
+                    { "chord": "G", "text": "Si le temps pouvait " },
+                    { "chord": "A", "text": "revenir en arrière" }
+                  ]
+                },
+                {
+                  "segments": [
+                    { "chord": "Bm", "text": "comprendrais-tu " },
+                    { "chord": "G", "text": "ce qu'est l'amour ?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        { "name": "Intro", "repeat": 1, "bars": ["D", "A", "Bm", "G"] },
+        { "name": "Verse", "repeat": 2, "bars": ["D", "A", "Bm", "G"] },
+        { "name": "Chorus", "repeat": 2, "bars": ["D", "A", "Bm", "G"] },
+        { "name": "Bridge", "repeat": 1, "bars": ["G", "A", "Bm", "G"] }
+      ]
+    }
+  }
+}

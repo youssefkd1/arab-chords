@@ -1,0 +1,42 @@
+{
+  "id": 17,
+  "slug": "blue-bossa",
+  "title": "Blue Bossa",
+  "artist": "Kenny Dorham",
+  "key": "Cm",
+  "capo": 0,
+  "difficulty": "Intermediate",
+  "meter": "4/4",
+  "tempo": 120,
+  "style": "Jazz bossa nova",
+  "maqam": "Minor jazz",
+  "liked": false,
+  "charts": {
+    "ireal": {
+      "sections": [
+        {
+          "name": "Main",
+          "repeat": 1,
+          "bars": [
+            "Cm7",
+            "Cm7",
+            "Fm7",
+            "Bb7",
+            "Dm7b5",
+            "G7",
+            "Cm7",
+            "Cm7",
+            "Ebm7",
+            "Ab7",
+            "Dbmaj7",
+            "Dbmaj7",
+            "Dm7b5",
+            "G7",
+            "Cm7",
+            ["Dm7b5", "G7"]
+          ]
+        }
+      ]
+    }
+  }
+}

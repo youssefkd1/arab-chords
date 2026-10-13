@@ -1,0 +1,340 @@
+{
+  "id": 5,
+  "slug": "nassini-el-donya",
+  "title": "Nassini El Donya",
+  "artist": "Majida El Roumi",
+  "key": "Em",
+  "capo": 0,
+  "difficulty": "Advanced",
+  "meter": "6/8",
+  "tempo": 72,
+  "style": "Orchestral Arabic ballad",
+  "maqam": "Nahawand",
+  "liked": false,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "Make me forget the world, "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "make me forget the universe "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "Let me "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "live in "
+                    },
+                    {
+                      "chord": "Am",
+                      "text": "your eyes "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "You are "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "all I "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "want "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bridge",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "My life "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "begins with "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "you "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Make me forget the world, "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "make me forget the universe "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "نسيني الدنيا، "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "نسيني العالم "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "خليني "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "أعيش "
+                    },
+                    {
+                      "chord": "Am",
+                      "text": "بعيونك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "إنت كل "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "شي بدي "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "ياه "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "جسر",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "حياتي "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "بتبلش "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "معك "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "نسيني الدنيا، "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "نسيني العالم "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "Fais-moi oublier le "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "monde, l'univers "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Em",
+                      "text": "Laisse-moi vivre "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "dans tes "
+                    },
+                    {
+                      "chord": "Am",
+                      "text": "yeux "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "D",
+                      "text": "Tu es tout "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "ce que je "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "veux "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pont",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Ma vie "
+                    },
+                    {
+                      "chord": "D",
+                      "text": "commence avec "
+                    },
+                    {
+                      "chord": "G",
+                      "text": "toi "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Am",
+                      "text": "Fais-moi oublier le "
+                    },
+                    {
+                      "chord": "B7",
+                      "text": "monde, l'univers "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "Em",
+            "B7",
+            "Em",
+            "Am",
+            "C",
+            "B7",
+            "Em",
+            "B7"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "Em",
+            "B7",
+            "Em",
+            "Am",
+            "D",
+            "G",
+            "C",
+            "B7"
+          ]
+        },
+        {
+          "name": "Bridge",
+          "repeat": 1,
+          "bars": [
+            "Am",
+            "D",
+            "G",
+            "C",
+            "Am",
+            "B7",
+            "Em",
+            "Em"
+          ]
+        }
+      ]
+    }
+  }
+}

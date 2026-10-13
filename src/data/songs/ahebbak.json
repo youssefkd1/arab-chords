@@ -1,0 +1,352 @@
+{
+  "id": 10,
+  "slug": "ahebbak",
+  "title": "Ahebbak",
+  "artist": "Kadim Al Saher",
+  "key": "F",
+  "capo": 0,
+  "difficulty": "Advanced",
+  "meter": "4/4",
+  "tempo": 82,
+  "style": "Iraqi orchestral ballad",
+  "maqam": "Hijaz touch",
+  "liked": true,
+  "charts": {
+    "lyrics": {
+      "defaultLanguage": "en",
+      "locales": {
+        "en": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "I love you, "
+                    },
+                    {
+                      "chord": "A#m/F",
+                      "text": "and I swear "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "by the sky "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Verse",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "You are the "
+                    },
+                    {
+                      "chord": "C/E",
+                      "text": "light of my "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "eyes "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "Without you, "
+                    },
+                    {
+                      "chord": "Gm",
+                      "text": "I am "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "lost "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chorus",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "My heart "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "is yours "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "forever "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Gm",
+                      "text": "I love you, and I "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "swear by the sky "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "ar": {
+          "sections": [
+            {
+              "name": "مقدمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "أحبك وأحلف "
+                    },
+                    {
+                      "chord": "A#m/F",
+                      "text": "برب السما "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "مقطع",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "إنت "
+                    },
+                    {
+                      "chord": "C/E",
+                      "text": "نور "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "عيني "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "من دونك "
+                    },
+                    {
+                      "chord": "Gm",
+                      "text": "أنا ضايع "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "لازمة",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "قلبي "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "إلك "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "للأبد "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Gm",
+                      "text": "أحبك وأحلف "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "برب السما "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "name": "Intro",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "Je t'aime et "
+                    },
+                    {
+                      "chord": "A#m/F",
+                      "text": "je jure par "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "le ciel "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Couplet",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "F",
+                      "text": "Tu es la "
+                    },
+                    {
+                      "chord": "C/E",
+                      "text": "lumière de mes "
+                    },
+                    {
+                      "chord": "Dm",
+                      "text": "yeux "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "Sans toi, "
+                    },
+                    {
+                      "chord": "Gm",
+                      "text": "je suis "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "perdu "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Refrain",
+              "lines": [
+                {
+                  "segments": [
+                    {
+                      "chord": "A#",
+                      "text": "Mon cœur est "
+                    },
+                    {
+                      "chord": "C",
+                      "text": "à toi pour "
+                    },
+                    {
+                      "chord": "F",
+                      "text": "toujours "
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "chord": "Gm",
+                      "text": "Je t'aime et je "
+                    },
+                    {
+                      "chord": "C7",
+                      "text": "jure par le ciel "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ireal": {
+      "sections": [
+        {
+          "name": "Intro",
+          "repeat": 1,
+          "bars": [
+            "F",
+            "A#m/F",
+            "F",
+            "C7",
+            "Dm",
+            "A#",
+            "C7",
+            "F"
+          ]
+        },
+        {
+          "name": "Verse",
+          "repeat": 2,
+          "bars": [
+            "F",
+            "C/E",
+            "Dm",
+            "A#",
+            "Gm",
+            "C7",
+            "F",
+            "F"
+          ]
+        },
+        {
+          "name": "Chorus",
+          "repeat": 2,
+          "bars": [
+            "A#",
+            "C",
+            "F",
+            "Dm",
+            "Gm",
+            "C7",
+            "F",
+            "F"
+          ]
+        }
+      ]
+    }
+  }
+}

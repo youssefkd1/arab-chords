@@ -1,0 +1,190 @@
+{
+  "common": {
+    "key": "سلّم",
+    "capo": "كابو",
+    "all": "الكل",
+    "beginner": "مبتدئ",
+    "intermediate": "متوسط",
+    "advanced": "متقدم",
+    "search": "بحث",
+    "filters": "فلاتر",
+    "noResults": "لا توجد نتائج",
+    "seeAll": "عرض الكل ->",
+    "backingTrack": "مخطط",
+    "chordChart": "مخطط أكوردات"
+  },
+  "sidebar": {
+    "tagline": "كلمات ومخططات أكوردات"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "songs": "الأغاني",
+    "charts": "المخططات",
+    "artists": "الفنانون",
+    "playlists": "قوائم التشغيل",
+    "favorites": "المفضلة",
+    "recents": "الأخيرة",
+    "settings": "الإعدادات"
+  },
+  "home": {
+    "tagline": "عرب كوردز - مخططات أغاني عربية",
+    "heroTitle": "اقرأ واعزف الأغاني العربية",
+    "heroDesc": "مخططات أكوردات مع كلمات ووضع iReal مدمج للأغاني العربية - من فيروز إلى عمرو دياب.",
+    "browseSongs": "استعرض المخططات",
+    "quickAccess": "وصول سريع",
+    "featured": "مخططات مميزة",
+    "stats": {
+      "songs": "مخططات أغاني",
+      "artists": "فنان",
+      "playlists": "قائمة"
+    },
+    "links": {
+      "songs": {
+        "label": "الأغاني",
+        "desc": "كلمات ومخططات بأسلوب iReal"
+      },
+      "artists": {
+        "label": "الفنانون",
+        "desc": "استعرض حسب الفنان"
+      },
+      "playlists": {
+        "label": "قوائم التشغيل",
+        "desc": "قوائمك المخصصة"
+      },
+      "favorites": {
+        "label": "المفضلة",
+        "desc": "المخططات المحفوظة"
+      }
+    }
+  },
+  "songs": {
+    "title": "الأغاني",
+    "subtitle": "كلمات ومخططات أكوردات للأغاني العربية",
+    "searchPlaceholder": "ابحث عن أغاني أو فنانين...",
+    "difficulty": "الصعوبة",
+    "artist": "الفنان",
+    "found_one": "{{count}} مخطط أغنية",
+    "found_other": "{{count}} مخططات أغاني",
+    "noSongsTitle": "لا توجد أغاني",
+    "noSongsDesc": "جرّب تعديل البحث أو الفلاتر",
+    "unlikeSong": "إلغاء الإعجاب",
+    "likeSong": "إعجاب",
+    "playTrack": "فتح المخطط",
+    "openChart": "فتح المخطط",
+    "addToPlaylist": "إضافة إلى قائمة"
+  },
+  "chart": {
+    "songChart": "مخطط أغنية",
+    "backToSongs": "العودة إلى الأغاني",
+    "notFound": "لم يتم العثور على المخطط.",
+    "lyricsMode": "وضع الكلمات",
+    "irealMode": "وضع iReal",
+    "meter": "الميزان",
+    "tempo": "السرعة"
+  },
+  "artists": {
+    "title": "الفنانون",
+    "subtitle": "مخططات أغاني لفنانيك العرب المفضلين",
+    "searchPlaceholder": "ابحث عن فنانين...",
+    "count_one": "{{count}} فنان",
+    "count_other": "{{count}} فنانين",
+    "noArtistsTitle": "لا يوجد فنانون",
+    "songs": "أغاني",
+    "countries": {
+      "all": "الكل",
+      "lebanon": "لبنان",
+      "egypt": "مصر",
+      "iraq": "العراق"
+    }
+  },
+  "playlists": {
+    "title": "قوائم التشغيل",
+    "subtitle": "نظّم مخططات أغانيك المفضلة في قوائم",
+    "new": "جديد",
+    "namePlaceholder": "اسم القائمة...",
+    "create": "إنشاء",
+    "cancel": "إلغاء",
+    "count_one": "{{count}} قائمة",
+    "count_other": "{{count}} قوائم",
+    "delete": "حذف",
+    "noPlaylists": "لا توجد قوائم بعد",
+    "noPlaylistsDesc": "أنشئ قائمتك الأولى أعلاه",
+    "moreSongs": "+{{count}} المزيد...",
+    "emptySongs": "لا توجد أغاني بعد. أضفها من صفحة الأغاني أو الزر أدناه.",
+    "changeCover": "تغيير صورة القائمة",
+    "removeCover": "إزالة الصورة",
+    "rename": "إعادة تسمية",
+    "save": "حفظ",
+    "addSongs": "إضافة أغاني",
+    "addToPlaylist": "إضافة إلى قائمة",
+    "removeSong": "إزالة من القائمة",
+    "songsCount_one": "{{count}} أغنية",
+    "songsCount_other": "{{count}} أغنية",
+    "allSongsAdded": "جميع الأغاني المتاحة موجودة في هذه القائمة"
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "subtitle": "مخططات أغانيك المحفوظة، دائماً في متناول يدك",
+    "count_one": "{{count}} مخطط محفوظ",
+    "count_other": "{{count}} مخططات محفوظة",
+    "emptyTitle": "لا توجد مفضلات بعد",
+    "emptyDesc": "أعجب بالأغاني من صفحة الأغاني لحفظها هنا",
+    "tip": "نصيحة: أعجب بالأغاني من صفحة الأغاني لإضافتها هنا.",
+    "removeLabel": "إزالة من المفضلة"
+  },
+  "recents": {
+    "title": "الأخيرة",
+    "subtitle": "عُد إلى المخططات التي فتحتها",
+    "clearAll": "مسح الكل",
+    "emptyTitle": "لا يوجد نشاط حديث",
+    "emptyDesc": "المخططات التي تفتحها ستظهر هنا",
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "earlier": "في وقت سابق",
+    "tip": "آخر {{count}} مخطط فتحته معروض هنا.",
+    "removeLabel": "إزالة من الأخيرة"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "subtitle": "خصّص تجربة المخططات",
+    "appearance": {
+      "title": "المظهر",
+      "fontSize": "حجم الخط",
+      "fontSizeDesc": "ضبط حجم نص مخطط الأكوردات",
+      "compactView": "العرض المضغوط",
+      "compactViewDesc": "عرض المزيد من الأغاني بمسافات أقل",
+      "fontSizes": {
+        "small": "صغير",
+        "medium": "متوسط",
+        "large": "كبير"
+      }
+    },
+    "notifications": {
+      "title": "الإشعارات",
+      "push": "الإشعارات الفورية",
+      "pushDesc": "احصل على إشعارات بتحديثات التطبيق",
+      "newSongs": "تنبيه المخططات الجديدة",
+      "newSongsDesc": "كن أول من يعرف عن مخططات الأغاني الجديدة",
+      "sound": "المؤثرات الصوتية",
+      "soundDesc": "تشغيل أصوات عند الأحداث"
+    },
+    "chords": {
+      "title": "تفضيلات الأكوردات",
+      "autoCapo": "اكتشاف الكابو تلقائياً",
+      "autoCapoDesc": "اقتراح الكابو بناءً على ضبطك",
+      "showDifficulty": "إظهار الصعوبة",
+      "showDifficultyDesc": "عرض شارة الصعوبة على الأغاني"
+    },
+    "language": {
+      "title": "اللغة والمنطقة",
+      "label": "اللغة",
+      "desc": "اختر لغة الواجهة المفضلة لديك"
+    },
+    "about": {
+      "title": "حول التطبيق",
+      "version": "الإصدار",
+      "privacy": "سياسة الخصوصية",
+      "terms": "شروط الخدمة"
+    }
+  }
+}

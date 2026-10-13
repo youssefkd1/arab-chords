@@ -1,0 +1,190 @@
+{
+  "common": {
+    "key": "Key",
+    "capo": "Capo",
+    "all": "All",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "search": "Search",
+    "filters": "Filters",
+    "noResults": "No results found",
+    "seeAll": "See all ->",
+    "backingTrack": "Chart",
+    "chordChart": "Chord Chart"
+  },
+  "sidebar": {
+    "tagline": "Lyrics and chord charts"
+  },
+  "nav": {
+    "home": "Home",
+    "songs": "Songs",
+    "charts": "Charts",
+    "artists": "Artists",
+    "playlists": "Playlists",
+    "favorites": "Favorites",
+    "recents": "Recents",
+    "settings": "Settings"
+  },
+  "home": {
+    "tagline": "Arab Chords - Arabic song charts",
+    "heroTitle": "Read and play Arabic songs",
+    "heroDesc": "Lyrics-first chord charts with compact iReal-style grids for Arabic songs - from Fairouz to Amr Diab.",
+    "browseSongs": "Browse Charts",
+    "quickAccess": "Quick Access",
+    "featured": "Featured Song Charts",
+    "stats": {
+      "songs": "Song Charts",
+      "artists": "Artists",
+      "playlists": "Playlists"
+    },
+    "links": {
+      "songs": {
+        "label": "Songs",
+        "desc": "Lyrics and iReal-style charts"
+      },
+      "artists": {
+        "label": "Artists",
+        "desc": "Explore by artist"
+      },
+      "playlists": {
+        "label": "Playlists",
+        "desc": "Your custom playlists"
+      },
+      "favorites": {
+        "label": "Favorites",
+        "desc": "Saved song charts"
+      }
+    }
+  },
+  "songs": {
+    "title": "Songs",
+    "subtitle": "Lyrics and chord charts for Arabic songs",
+    "searchPlaceholder": "Search songs or artists...",
+    "difficulty": "Difficulty",
+    "artist": "Artist",
+    "found_one": "{{count}} song chart found",
+    "found_other": "{{count}} song charts found",
+    "noSongsTitle": "No songs found",
+    "noSongsDesc": "Try adjusting your search or filters",
+    "unlikeSong": "Unlike song",
+    "likeSong": "Like song",
+    "playTrack": "Open chart",
+    "openChart": "Open chart",
+    "addToPlaylist": "Add to playlist"
+  },
+  "chart": {
+    "songChart": "Song chart",
+    "backToSongs": "Back to songs",
+    "notFound": "Song chart not found.",
+    "lyricsMode": "Lyrics mode",
+    "irealMode": "iReal mode",
+    "meter": "Meter",
+    "tempo": "Tempo"
+  },
+  "artists": {
+    "title": "Artists",
+    "subtitle": "Song charts by your favourite Arabic artists",
+    "searchPlaceholder": "Search artists...",
+    "count_one": "{{count}} artist",
+    "count_other": "{{count}} artists",
+    "noArtistsTitle": "No artists found",
+    "songs": "songs",
+    "countries": {
+      "all": "All",
+      "lebanon": "Lebanon",
+      "egypt": "Egypt",
+      "iraq": "Iraq"
+    }
+  },
+  "playlists": {
+    "title": "Playlists",
+    "subtitle": "Organise your favourite song charts into playlists",
+    "new": "New",
+    "namePlaceholder": "Playlist name...",
+    "create": "Create",
+    "cancel": "Cancel",
+    "count_one": "{{count}} playlist",
+    "count_other": "{{count}} playlists",
+    "delete": "Delete",
+    "noPlaylists": "No playlists yet",
+    "noPlaylistsDesc": "Create your first playlist above",
+    "moreSongs": "+{{count}} more...",
+    "emptySongs": "No songs yet. Add some from the Songs page or use the button below.",
+    "changeCover": "Change playlist cover",
+    "removeCover": "Remove cover",
+    "rename": "Rename",
+    "save": "Save",
+    "addSongs": "Add songs",
+    "addToPlaylist": "Add to playlist",
+    "removeSong": "Remove from playlist",
+    "songsCount_one": "{{count}} song",
+    "songsCount_other": "{{count}} songs",
+    "allSongsAdded": "All available songs are already in this playlist"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "subtitle": "Your saved song charts, always within reach",
+    "count_one": "{{count}} saved chart",
+    "count_other": "{{count}} saved charts",
+    "emptyTitle": "No favorites yet",
+    "emptyDesc": "Like songs from the Songs page to save them here",
+    "tip": "Tip: Like songs from the Songs page to add them here.",
+    "removeLabel": "Remove from favorites"
+  },
+  "recents": {
+    "title": "Recents",
+    "subtitle": "Jump back into the charts you opened",
+    "clearAll": "Clear all",
+    "emptyTitle": "No recent activity",
+    "emptyDesc": "Charts you open will appear here",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "earlier": "Earlier",
+    "tip": "Your last {{count}} opened charts are shown here.",
+    "removeLabel": "Remove from recents"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customise your chart experience",
+    "appearance": {
+      "title": "Appearance",
+      "fontSize": "Font Size",
+      "fontSizeDesc": "Adjust chord chart text size",
+      "compactView": "Compact View",
+      "compactViewDesc": "Show more songs with less spacing",
+      "fontSizes": {
+        "small": "Small",
+        "medium": "Medium",
+        "large": "Large"
+      }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "push": "Push Notifications",
+      "pushDesc": "Get notified about app updates",
+      "newSongs": "New Charts Alert",
+      "newSongsDesc": "Be first to know about new song charts",
+      "sound": "Sound Effects",
+      "soundDesc": "Play sounds on actions"
+    },
+    "chords": {
+      "title": "Chord Preferences",
+      "autoCapo": "Auto-detect Capo",
+      "autoCapoDesc": "Suggest capo based on your tuning",
+      "showDifficulty": "Show Difficulty",
+      "showDifficultyDesc": "Display difficulty badge on songs"
+    },
+    "language": {
+      "title": "Language & Region",
+      "label": "Language",
+      "desc": "Select your preferred interface language"
+    },
+    "about": {
+      "title": "About",
+      "version": "Version",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  }
+}

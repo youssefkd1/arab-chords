@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-inter: "Inter", sans-serif;
+  --font-ibm-plex: "IBM Plex Sans Arabic", sans-serif;
+}
+
+:root {
+  color-scheme: light;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f5efe2;
+  color: #1f2933;
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+.app-shell {
+  background:
+    linear-gradient(115deg, rgba(176, 139, 79, 0.13) 0 10%, transparent 10% 24%, rgba(35, 116, 112, 0.1) 24% 34%, transparent 34%),
+    linear-gradient(135deg, #f8f2e6 0%, #eef5ef 46%, #f7eadf 100%);
+}
+
+.app-main {
+  background-image:
+    linear-gradient(45deg, rgba(95, 125, 102, 0.045) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(95, 125, 102, 0.045) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(176, 139, 79, 0.06) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(176, 139, 79, 0.06) 75%);
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+  background-size: 20px 20px;
+}
+
+.sharqi-panel {
+  background: linear-gradient(135deg, #21483f 0%, #5f7d66 52%, #b48a4a 100%);
+}
+
+.sharqi-border {
+  border-color: rgba(176, 139, 79, 0.28);
+}
+
+html.compact main {
+  padding: 1rem 1rem 5rem !important;
+}
+
+html.compact .settings-page-shell {
+  padding: 1rem !important;
+}
+
+html.compact .settings-page-shell .px-5.py-4 {
+  padding-top: 0.8rem !important;
+  padding-bottom: 0.8rem !important;
+}
+
+html.compact .settings-page-shell .rounded-2xl {
+  border-radius: 1rem !important;
+}
